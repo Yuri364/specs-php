@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## v1.4.0
+
+### Changed
+
+- Minimal required PHP version now is `7.3`
+
+### Removed
+
+- Dependency `tarampampam/wrappers-php`
+
+## v1.3.0
+
+### Changed
+
+- Dependency `avtocod/specs` version `~3.70` is supported now
+
 ## v1.2.0
 
 ### Added
